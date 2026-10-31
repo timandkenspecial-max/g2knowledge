@@ -1,0 +1,5 @@
+請把這個資料夾裡的 53 個檔案全部上傳到 GitHub 儲存庫最外層。
+
+GitHub 操作：Add file → Upload files → choose your files → Command+A 全選 → 打開 → Commit changes。
+
+不要只上傳 index.html；音樂、程式和字型檔也都需要。
